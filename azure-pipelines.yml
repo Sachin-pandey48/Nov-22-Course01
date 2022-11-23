@@ -1,7 +1,7 @@
 # Execute manually for exploration purposes
 # This particular pipeline should not be run behind GitHub events such as push or PR
 trigger: none
-# for production projects, the recommended trigger is peridical, once a week
+# for production projects, the recommended trigger is peridical, once a week Test
 # Ideally, this pipeline should run behind a notification that a new pertinent fix is available
 # Follow https://webmethods.ideas.aha.io/ideas/OT-I-21 if this aspect is important for your context
 
